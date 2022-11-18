@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\homework new\Praktika\Praktika\bin\Debug\netcoreapp3.1\Praktika.exe
+C:\Users\Admin\Desktop\homework new\Praktika\Praktika\bin\Debug\netcoreapp3.1\Praktika.deps.json
+C:\Users\Admin\Desktop\homework new\Praktika\Praktika\bin\Debug\netcoreapp3.1\Praktika.runtimeconfig.json
+C:\Users\Admin\Desktop\homework new\Praktika\Praktika\bin\Debug\netcoreapp3.1\Praktika.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\homework new\Praktika\Praktika\bin\Debug\netcoreapp3.1\Praktika.dll
+C:\Users\Admin\Desktop\homework new\Praktika\Praktika\bin\Debug\netcoreapp3.1\Praktika.pdb
+C:\Users\Admin\Desktop\homework new\Praktika\Praktika\obj\Debug\netcoreapp3.1\Praktika.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\homework new\Praktika\Praktika\obj\Debug\netcoreapp3.1\Praktika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\homework new\Praktika\Praktika\obj\Debug\netcoreapp3.1\Praktika.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\homework new\Praktika\Praktika\obj\Debug\netcoreapp3.1\Praktika.AssemblyInfo.cs
+C:\Users\Admin\Desktop\homework new\Praktika\Praktika\obj\Debug\netcoreapp3.1\Praktika.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\homework new\Praktika\Praktika\obj\Debug\netcoreapp3.1\Praktika.dll
+C:\Users\Admin\Desktop\homework new\Praktika\Praktika\obj\Debug\netcoreapp3.1\Praktika.pdb
+C:\Users\Admin\Desktop\homework new\Praktika\Praktika\obj\Debug\netcoreapp3.1\Praktika.genruntimeconfig.cache
